@@ -2,3 +2,4 @@
 <h3 align="center"></h3>
 <hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsprieto&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=davidsprieto">
