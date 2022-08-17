@@ -2,7 +2,7 @@
   <h1 align="center" font-size="100px">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm David Prieto</h1>
 </div>
 <div align="center">
-<p><strong>I'm currently working on:</strong> HTML/CSS, JavaScritpt, jQuery, JavaEE (JSPs, Servlets, JDBCs), MySQL, and Spring Udemy Courses.</p>
+<p><strong>I'm currently working on:</strong> JavaScritpt, jQuery, Java, and JavaEE (JSPs, Servlets, & JDBCs).</p>
 <p><strong>I'm currently reading:</strong> Eloquent JavaScript: A Modern Introduction to Programming.</p>
 <p><strong>Check back:</strong> To see the projects that I'll be building while taking these Udemy courses and reading Eloquent JavaScript!</p>
 </div>
