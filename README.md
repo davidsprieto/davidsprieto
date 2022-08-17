@@ -4,7 +4,7 @@
 <div align="center">
 <p><strong>I'm currently deepening my understanding of:</strong> JavaScript, jQuery, Java, and JavaEE (JSPs, Servlets, & JDBCs) with Udemy courses.</p>
 <p><strong>I'm currently reading:</strong> Eloquent JavaScript: A Modern Introduction to Programming.</p>
-<p><strong>Check back:</strong> To see the projects that I'll be building while taking these Udemy courses and reading Eloquent JavaScript!</p>
+<p><strong>Check back:</strong> To see the progress on the projects that I'll be building while taking these Udemy courses and reading Eloquent JavaScript!</p>
 </div>
 <div>
   <h3 align="center"></h3>
