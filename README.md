@@ -1,5 +1,6 @@
-<div>
-  <h1 align="center" font-size="100px">Hello, I'm David Prieto</h1>
+<div align="center">
+  <h1>Hello, I'm David Prieto</h1>
+  <h3>I'm a Codeup Full Stack Web Development Graduate.</h3>
 </div>
 <div align="center">
 <p><strong>I'm currently deepening my understanding of:</strong> JavaScript, jQuery, Java, and JavaEE (JSPs, Servlets, & JDBCs) with Udemy courses.</p>
