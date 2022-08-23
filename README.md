@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center" font-size="100px">Hi, I'm David Prieto</h1>
+  <h1 align="center" font-size="100px"></h1>
 </div>
 <div align="center">
 <p><strong>I'm currently deepening my understanding of:</strong> JavaScript, jQuery, Java, and JavaEE (JSPs, Servlets, & JDBCs) with Udemy courses.</p>
