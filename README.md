@@ -2,9 +2,8 @@
   <h1>Hello, I'm David Prieto</h1>
 </div>
 <div align="center">
-<p><strong>Certifications:</strong> Certificate of Completion, Codeup Full Stack Web Development</p>
+<p><strong>Certifications:</strong> Certificate of Completion - Codeup Full Stack Web Development</p>
 <p><strong>I'm currently deepening my understanding of:</strong> Java and JavaEE (JSPs, Servlets, & JDBCs) with Udemy courses and college curriculum.</p>
-<p><strong>I'm currently reading:</strong> Introduction to Java Programming and Data Structures.</p>
 <p><strong>I'm currently pursuing:</strong> A Bachelor of Science in Computer Science with a concentration in Information Technology.</p>
 <p><strong>Check back:</strong> To see my progress on the projects that I'll be creating while pursuing my degree and taking these Udemy courses!</p>
 </div>
