@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Hello, I'm David Prieto</h1>
+  <h3>LinkedIn: https://www.linkedin.com/in/davidsprieto/</h3>
 </div>
 <div align="center">
 <p><strong>Certifications:</strong> Certificate of Completion - Codeup Full Stack Web Development</p>
