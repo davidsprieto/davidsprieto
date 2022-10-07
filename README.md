@@ -3,8 +3,8 @@
   <h3>LinkedIn: https://www.linkedin.com/in/davidsprieto/</h3>
 </div>
 <div align="center">
-<p><strong>I'm currently deepening my understanding of:</strong></p>
-<p><strong>I'm currently pursuing:</strong></p>
+<p><strong></strong></p>
+<p><strong></strong></p>
 <p><strong></strong></p>
 </div>
 <div>
