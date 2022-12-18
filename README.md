@@ -1,6 +1,5 @@
 <div align="center">
   <h1>David Prieto</h1>
-  <h3>LinkedIn: https://www.linkedin.com/in/davidsprieto/</h3>
 </div>
 <div align="center">
 <p><strong></strong></p>
